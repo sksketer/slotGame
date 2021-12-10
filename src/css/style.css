@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    /*background-image: url("./src/assets/background/gameBackground.jpg");*/
+}
+#btn {
+    padding: 20px;
+    height: 62px;
+}
